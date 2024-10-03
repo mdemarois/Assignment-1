@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>LSC 555 Assignment #1</title>
+</head>
+
+</html>
